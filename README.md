@@ -1,2 +1,2 @@
 # Cellular-Automaton
-Graphical simulation of cellular automaton models
+Graphical simulation of cellular automaton models using C#.
